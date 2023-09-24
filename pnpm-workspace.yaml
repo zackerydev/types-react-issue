@@ -1,0 +1,3 @@
+workspaces:
+  - 'react-17-app'
+  - 'react-18-app'
